@@ -9,7 +9,7 @@
 
 
 ### conf
-    https://raw.githubusercontent.com/Mieing/conf/main/QuantumultX/quantumult_20251124184912.conf
+    https://raw.githubusercontent.com/Mieing/conf/main/QuantumultX/quantumult_20260111161553.conf
 
 
 ### Shadowrocket
